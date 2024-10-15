@@ -1,22 +1,17 @@
-<h1>Computer Graphics</h1> <h2>CCS-601-2024</h2>
-<b>Student:</b> Erbora Kadriu
-<b>Id:</b> 130097
-<b>Lecturer:</b> Visar Shehu
-<b>Assistant:</b> Shqipe Salii
+# **Computer Graphics**
 
-To use this repository, you need to clone it to your machine:
+### CCS-601-2024
 
-```
-git clone https://github.com/salii-shqipe/CCS-601-2024.git
-```
+**Student:** Erbora Kadriu  
+**ID:** 130097  
+**Lecturer:** Visar Shehu  
+**Assistant:** Shqipe Salii
 
-The repository is organized into directories, where each directory represents a specific week:
+---
 
-- Week I
-- Week II
-- Week III
+### 1. **Running the Code**
 
-To run the code, you need to navigate to the respective directory and install the required libraries (vite and three). For example:
+To run the code, navigate to the respective directory and install the required libraries (Vite and Three.js). For example, to set up Week I:
 
 ```
 cd "Week I"
@@ -24,20 +19,24 @@ npm install vite
 npm install three
 ```
 
-Once vite is installed, open the package.json file and make sure that the scripts section has the following content:
+#### **Check the Scripts Section**
 
-```
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build"
-  }
+Once Vite is installed, open the `package.json` file and ensure that the scripts section contains the following:
+
+```json
+"scripts": {
+  "dev": "vite",
+  "build": "vite build"
+}
 ```
 
-If everything is correct, you can start the project with:
+#### **Starting the Project**
 
 ```
 npm run dev
 ```
+
+### **For Week III**
 
 ```
 cd "Week III"
