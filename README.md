@@ -1,4 +1,6 @@
 <h1>Computer Graphics</h1> <h2>CCS-601-2024</h2>
+<b>Student:</b> Erbora Kadriu
+<b>Id:</b> 130097
 <b>Lecturer:</b> Visar Shehu
 <b>Assistant:</b> Shqipe Salii
 
@@ -30,8 +32,16 @@ Once vite is installed, open the package.json file and make sure that the script
     "build": "vite build"
   }
 ```
+
 If everything is correct, you can start the project with:
 
 ```
 npm run dev
+```
+
+```
+cd "Week III"
+npm install vite
+npm install three
+npm install gsap@3.5.1
 ```
