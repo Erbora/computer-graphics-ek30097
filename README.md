@@ -36,11 +36,11 @@ Once Vite is installed, open the `package.json` file and ensure that the scripts
 npm run dev
 ```
 
-### **For Week III**
-
 ```
 cd "Week III"
 npm install vite
 npm install three
 npm install gsap@3.5.1
+
+npx vite
 ```
