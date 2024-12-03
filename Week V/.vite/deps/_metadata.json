@@ -1,0 +1,25 @@
+{
+  "hash": "b91591d1",
+  "configHash": "ad77352d",
+  "lockfileHash": "0e041011",
+  "browserHash": "1bae722a",
+  "optimized": {
+    "three": {
+      "src": "../../Geometries Exercise/node_modules/three/build/three.module.js",
+      "file": "three.js",
+      "fileHash": "0d5201b2",
+      "needsInterop": false
+    },
+    "three/examples/jsm/controls/OrbitControls.js": {
+      "src": "../../Geometries Exercise/node_modules/three/examples/jsm/controls/OrbitControls.js",
+      "file": "three_examples_jsm_controls_OrbitControls__js.js",
+      "fileHash": "5ff60d3b",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-3OU6XUX5": {
+      "file": "chunk-3OU6XUX5.js"
+    }
+  }
+}
